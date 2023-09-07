@@ -1,5 +1,4 @@
 ## Nutch爬虫配置及简单使用
-> *北京大学软件与微电子学院 曹路  2018/03/20*  *[https://github.com/andrewcao95/nutch-crawler](https://github.com/andrewcao95/nutch-crawler)*
 
 ### 1 引言
 #### 1.1 爬虫的基本分类
